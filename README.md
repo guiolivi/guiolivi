@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**guiolivi/guiolivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <a>
+    <img width="60" height="60" src="https://avatars.githubusercontent.com/u/193511802?s=400&u=86eafb26f07e19b6f691e7ccbe29211a05d09491&v=4" />
+  </a>
+  <br>
+  <p>
+    <a href="mailto:guilhermeoli.dev@gmail.com"><img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
+  </p>
+  <br>
+  <br>
+  Hey! I'm Guilherme, Junior Fullstack Developer from Rio de Janeiro, Brazil.
+  <br>
+  <br>
+  <p>
+    <a href="mailto:guilhermeoli.dev@gmail.com">E-Mail</a> • 
+    <a href="https://www.linkedin.com/in/guilhermedesouzaoliveira/">LinkedIn</a>
+  </p>
+  <br>
+</div>
