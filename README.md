@@ -13,6 +13,7 @@
   <br>
   <br>
   Hey! I'm Guilherme, Junior Fullstack Developer from Rio de Janeiro, Brazil.
+  <h6>Currently studying C</h6>
   <br>
   <br>
   <p>
