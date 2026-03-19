@@ -16,7 +16,7 @@
   <br>
   <br>
   <p>
-    <a href="mailto:guilhermeoli.dev@gmail.com">E-Mail</a> • 
+    <a href="mailto:guilhermeoliveirfm@gmail.com">E-Mail</a> • 
     <a href="https://www.linkedin.com/in/guilhermedesouzaoliveira/">LinkedIn</a>
   </p>
   <br>
